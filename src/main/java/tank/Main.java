@@ -12,6 +12,6 @@ public class Main {
 			tankFrame.repaint();
 			
 		}
-		System.out.println("232323fdsfsdfs");
+		System.out.println("111111111");
 	}
 }
